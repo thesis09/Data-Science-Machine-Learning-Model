@@ -1,4 +1,4 @@
-**Air Quality and CO2 Emission Prediction Model**
+***Air Quality and CO2 Emission Prediction Model***
 
 *Overview:*
 This repository contains the implementation of a machine learning project aimed at predicting air quality and CO2 emissions. The project uses various datasets related to environmental factors, such as temperature, humidity, and industrial emissions, to predict air quality indices and CO2 emission levels. The goal is to provide an accurate and reliable tool that can help in environmental monitoring and decision-making processes.
@@ -11,6 +11,7 @@ Air pollution and CO2 emissions are critical environmental issues that affect pu
 
 **Data**
 The dataset used in this project includes environmental factors such as:
+``
 -Temperature
 -Humidity
 -Wind speed
@@ -18,6 +19,7 @@ The dataset used in this project includes environmental factors such as:
 -Traffic data
 -Historical air quality indices
 -Historical CO2 emission data
+``
 The data can be sourced from public environmental datasets or sensors placed in various locations.
 
 
